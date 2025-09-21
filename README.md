@@ -32,6 +32,7 @@ Currently Software Engineer and AI enthusiast. <br>Digital Egyptian Pioneers Ini
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 <!-- 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Beder-asu&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)<br/>
