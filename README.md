@@ -7,7 +7,7 @@ Currently Software Engineer and AI enthusiast. <br>Digital Egyptian Pioneers Ini
 
 # 💻 Tech Stack:
 
-## Software Engineering for cool products:
+#### Software Engineering for cool products:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat&logo=javafx&logoColor=white)
@@ -18,7 +18,7 @@ Currently Software Engineer and AI enthusiast. <br>Digital Egyptian Pioneers Ini
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 
-## Data Science and AI track:
+#### Data Science and AI track:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
@@ -27,7 +27,7 @@ Currently Software Engineer and AI enthusiast. <br>Digital Egyptian Pioneers Ini
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) 
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) 
 
-## Tools that makes life easier: 
+#### Tools that makes life easier: 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
