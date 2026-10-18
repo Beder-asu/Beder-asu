@@ -1,42 +1,60 @@
-# 💫 About Me:
-Currently Software Engineer and AI enthusiast. <br>Digital Egyptian Pioneers Initiative Grad, R2.<br>Ex-USAID Scholarship Holder.<br>Dual Degree student @ UEL.<br>Interested in Learning and Development,<br>and I want to contribute in Global Education.
+# Mohamed Beder
 
+### Applied AI & Backend Engineer
 
-## 🌐 Socials:
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+201023731844) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mobeder88) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mobeder88@gmail.com) 
+**AI systems, production backends, and the engineering between them.**
 
-# 💻 Tech Stack:
+I build RAG applications, machine-learning tools, data systems, and backend services designed for real use. I am a final-year Computer Engineering and AI student at Ain Shams University in Cairo, interested in work where model behavior, product decisions, and backend reliability have to succeed together.
 
-#### Software Engineering for cool products:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
-![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat&logo=javafx&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)   
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+## Professional engineering
 
-#### Data Science and AI track:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) 
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) 
+### Wared — AI and backend engineering at Beseha
 
-#### Tools that makes life easier: 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-<!-- 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Beder-asu&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Beder-asu&theme=date_night&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Beder-asu&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+Wared is the strongest example of my production work. Its source is private, so I separate the outcomes I can discuss from the public projects visitors can inspect below.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Rebuilt the WhatsApp webhook ingestion service in Rust, reducing average processing time to approximately 25 ms—about 70% faster than its predecessor
+- Designed and deployed a RAG agent for an active CRM using LangChain, LlamaIndex, ChromaDB, and the Gemini API
+- Implemented structured outputs, Step-Back Query Translation, and Corrective RAG
+- Integrated Meta's official Graph API for WhatsApp Business messaging into production workflows
+
+## Public case studies
+
+### [VisualML Lab](https://github.com/Beder-asu/VisualML-Lab)
+
+An interactive environment for understanding machine-learning algorithms through step-by-step training and synchronized visualizations.
+
+- Custom educational engines for Decision Trees, Linear Regression, K-Means, and KNN
+- 81 engine tests, 408 UI tests, and a browser smoke test
+- Responsive React and TypeScript interface with an EDA visualization reference
+
+[Live application](https://mllab-one.vercel.app) · [Source and case study](https://github.com/Beder-asu/VisualML-Lab)
+
+[![VisualML Lab interface](https://raw.githubusercontent.com/Beder-asu/VisualML-Lab/main/output/playwright/home-desktop.png)](https://mllab-one.vercel.app)
+
+### [PulseCore](https://github.com/Beder-asu/pulse-core)
+
+A Docker-orchestrated hospital platform built to explore production backend boundaries rather than imitate them in a single CRUD application.
+
+- Eight Node.js domain services behind an Nginx gateway
+- Service-owned PostgreSQL databases, Kafka events, and Redis cache-aside reads
+- Rotating refresh sessions, role-scoped access policies, observability, CI, and full local E2E/security verification
+
+[Architecture, verification, and local walkthrough](https://github.com/Beder-asu/pulse-core)
+
+[![PulseCore admin dashboard with synthetic demo data](https://raw.githubusercontent.com/Beder-asu/pulse-core/main/docs/screenshots/admin-dashboard.png)](https://github.com/Beder-asu/pulse-core)
+
+## Areas I work across
+
+- **Intelligent systems:** RAG, AI agents, NLP, and computer vision
+- **Data and machine learning:** modeling, forecasting, data engineering, and visualization
+- **Backend systems:** APIs, databases, distributed services, and system design
+
+These are connected parts of how I build software, not separate professional identities.
+
+## Background
+
+USAID scholarship recipient, former Vice President of the IEEE ASU Student Branch, and co-instructor for an AI diploma program serving more than 120 students.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/mobeder88) · [Email](mailto:mobeder88@gmail.com)
