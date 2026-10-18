@@ -17,6 +17,8 @@ Wared is the strongest example of my production work. Its source is private, so 
 - Implemented structured outputs, Step-Back Query Translation, and Corrective RAG
 - Integrated Meta's official Graph API for WhatsApp Business messaging into production workflows
 
+[Visit Wared](https://wared.chat)
+
 ## Public case studies
 
 ### [VisualML Lab](https://github.com/Beder-asu/VisualML-Lab)
